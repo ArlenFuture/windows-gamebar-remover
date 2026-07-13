@@ -2,7 +2,7 @@
 
 <#
     Windows 11 - Remove Xbox Game Bar & Disable GameDVR
-    Author : Your Name
+    Author : 阿冷 Arlen
     Version: 1.0
 #>
 
