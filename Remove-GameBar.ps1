@@ -98,7 +98,7 @@ Write-Host " Completed Successfully" -ForegroundColor Green
 Write-Host "==============================================" -ForegroundColor Green
 Write-Host ""
 
-Write-Host "Xbox Game Bar has been removed." -ForegroundColor White
+Write-Host "Xbox Game Bar has been removed (if installed)." -ForegroundColor White
 Write-Host "GameDVR has been disabled." -ForegroundColor White
 Write-Host "Overlay recording has been disabled." -ForegroundColor White
 Write-Host ""
